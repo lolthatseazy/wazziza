@@ -223,10 +223,19 @@
       ]
     },
     "855868524585156618": {
-      "hash": "cbf8bb404dd0c7df07c0314672cd53d1f57c369c66da310907ea1d5e9ff6945f2dd94b50582e96d8c9e8973f7660568ac8373f470620a2e62eb64c6ae562874c",
-      "attackable": false,
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": true,
       "level": 1,
-      "tags": null
+      "tags": [
+        {
+          "text": "Mr<font color=\"rgb(3, 111, 252)\">Beast</font>",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     },
     "1077461832056442901": {
       "hash": "064a1a686ea7bfd24b4b9f9906457210c4cb81a3fa146eea05865bff16f91689ac0a41aaa5502216c42e1bbac44aa93c6ee183737b02187cf7c8659200d4e559",
