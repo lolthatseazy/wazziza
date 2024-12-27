@@ -178,8 +178,8 @@
       ]
     },
     "1144358443394813993": {
-      "hash": "cc1dec53334de73d775d7ff491cc8c06a057a389cf26d9477f1f28b991b5c37291b4d119c922a63ebf3f71c29bbf979f8839bb82cdc7f80730792da2b05dbbd0",
-      "attackable": false,
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "attackable": true,
       "level": 1,
       "tags": [
         {
