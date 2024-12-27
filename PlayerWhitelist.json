@@ -562,8 +562,8 @@
   },
   "BlacklistedUsers": {},
   "Announcement": {
-    "text": "Public testing for the announcement system, hi!",
-    "expiretime": 1735252330.3700628,
+    "text": "hello everyone, how is your day going :D, also join the discord at discord.gg/newvape",
+    "expiretime": 1735340600.1618931,
     "targets": "all"
   },
   "KillVape": false
