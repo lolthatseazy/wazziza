@@ -347,6 +347,21 @@
           ]
         }
       ]
+    },
+    "735432575140757605": {
+      "hash": "1ce3490981bc0241a1d400942fa421ad839fff4649210ee0ea0892af9ae936ddc0bf570861f2a354de18e4be27de90a48c94b1305191bb64965927625cb1d826",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "engo",
+          "color": [
+            0,
+            157,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
